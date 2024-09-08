@@ -32,9 +32,11 @@
    - **Paste**: Use `Ctrl + V` to paste the translated text anywhere.
    - **Exit**: Press the "Esc" key to terminate the program.
 
+> **Note**: The speed of translation may vary based on the size of the selected text and your network connectivity, as the script relies on online translation services.
+
 ## 📝 Example Usage
   - Triple-click any non-English text, and the script will automatically copy it, translate it, and store it in the clipboard.
-  - Use `Ctrl + V` to paste the translated text into any text field.
+  - Use `Ctrl + V` to paste the translated text into any text field after 1 sec of Triple-click.
 
 ## ⚠️ License:
 This project is under No License: This code is for personal use only. Copying, modifying, or using this code for academic, commercial, or other purposes is not permitted. Feel free to reach out if required permission to reuse.
