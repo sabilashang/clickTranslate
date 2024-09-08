@@ -17,7 +17,7 @@
 
 ## 🔧 Setup:
 1. Clone the repository and navigate to the folder
-   - ```git clone https://github.com/yourusername/clickTranslate.git```
+   - ```git clone https://github.com/sabilashang/clickTranslate.git```
    - ```cd clickTranslate```
 2. Create and Activate a Virtual Environment
    - ```python -m venv .venv```
